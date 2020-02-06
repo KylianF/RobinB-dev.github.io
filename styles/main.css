@@ -234,6 +234,18 @@ header .top-bar-section ul li a{
 	display:table-cell;
 	vertical-align:middle;
 }
+.quote #Mac{
+	background-size : contain;
+	background-position : 50% 50%;
+	background-image : url(/img/exemple/filter-image.jpg);
+	display : inline-block;
+	width : 150px; height : 150px;
+	border: none;
+	-moz-border-radius : 75px;
+	-webkit-border-radius : 75px;
+	border-radius : 75px;
+	margin: 40px;
+}
 
 .quote blockquote p{
 	color: #4c4b4b;
